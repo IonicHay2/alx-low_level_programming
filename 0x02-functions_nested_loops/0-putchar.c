@@ -1,6 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int main(void)
 {
-	putchar('\n');
-	return (0);
+putchar('\n');
+return (0);
 }
