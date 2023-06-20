@@ -2,12 +2,12 @@
 
 int main(void)
 {
-    //declare a variable
-    char alphabet;
+    /**declare a variable
+    *char alphabet;
 
-    for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
+    *for (alphabet = 'a'; alphabet <= 'z' ; alphabet++)
     {
-        // print the value of the variable 
+        */ print the value of the variable 
         putchar(alphabet);
 
     }
